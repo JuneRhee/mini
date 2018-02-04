@@ -1,0 +1,2 @@
+# mini
+project starts hear
